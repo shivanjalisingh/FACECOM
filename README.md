@@ -102,4 +102,4 @@ The model tracks the following metrics:
 - Predictions are saved in `submission.csv`
 
 ## License
-
+MIT LICENSE  
